@@ -12,3 +12,4 @@ haha-java-basic --- java基础相关
 4. [运算语法](doc/haha-java-basic/运算语法.md)
 5. [类,方法,属性](doc/haha-java-basic/类,方法,属性.md)
 6. [集合](doc/haha-java-basic/集合.md)
+7. [泛型](doc/haha-java-basic/泛型.md)
