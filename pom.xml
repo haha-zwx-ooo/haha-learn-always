@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>haha-java-basic</module>
+        <module>haha-java-algorithm</module>
     </modules>
     <groupId>com.haha</groupId>
     <artifactId>haha-learn-always</artifactId>
